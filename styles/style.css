@@ -156,7 +156,7 @@
   height: 100%;
 }
 
-@supports ((text-stroke:1px var(--сolor-stroke-shadow)) or (-webkit-text-stroke: 1px var(--сolor-stroke-shadow);)) {
+@supports ((text-stroke: 1px var(--сolor-stroke-shadow)) or (-webkit-text-stroke: 1px var(--сolor-stroke-shadow);)) {
 
   .decor {
     position: absolute;
@@ -315,7 +315,7 @@ transition: fill 0.3s 0.05s linear;
   transition: fill 0.3s linear;
 }
 
-.core{
+.core {
   fill: transparent;
   transition: fill 0.3s linear;
 }
