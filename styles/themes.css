@@ -18,7 +18,7 @@
 
 @media (Prefers-color-scheme: theme-light) {
 
-    :root {   
+    :root {
         --font-weight-normal: 400;
         --font-weight-bold: 700;
         --background-themes: #FFFFFF;
