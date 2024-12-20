@@ -430,6 +430,10 @@
 
 .floppy-icon-modal {
   color: var(--color-floppy);
+  mix-blend-mode: difference;
+  position: relative;
+  z-index: 1;
+  block-size: 40px;
 }
 
 /*Модальное окно*/
