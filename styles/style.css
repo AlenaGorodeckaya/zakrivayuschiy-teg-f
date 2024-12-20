@@ -428,9 +428,7 @@
   block-size: 21px;
 }
 
-.floppy-icon-modal {
-  color: var(--color-floppy);
-  mix-blend-mode: difference;
+.icon-modal {
   block-size: 40px;
 }
 
