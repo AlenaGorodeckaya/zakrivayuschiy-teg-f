@@ -492,6 +492,10 @@
     block-size: 28px;
   }
 
+  .icon-modal {
+    block-size: 40px;
+  }
+  
   .dialog[open] {
     padding: 32px 42px;
 }
